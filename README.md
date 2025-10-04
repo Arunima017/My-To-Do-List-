@@ -5,10 +5,9 @@ A minimal to-do app with a soft paper-note design. Built using HTML, CSS, and Ja
 
 
 ## 🚀 Features
-- ➕ Add new tasks easily  
-- ✅ Mark tasks as *done* (line-through effect)  
+- ➕ Add new tasks easily   
 - ❌ Delete tasks with a button  
-- 🌈 *GenZ design* with gradient background & glassmorphism  
+- 🌈 Easily themeable CSS (multiple aesthetic skins possible)
 - 🎨 Responsive & minimal UI  
 
 ---
