@@ -14,8 +14,8 @@ A minimal to-do app with a soft paper-note design. Built using HTML, CSS, and Ja
 ---
 
 ## 📸 Preview
-![Preview Screenshot]()  
-![Preview Screenshot]()  
+![Preview Screenshot](p1.jgp)  
+![Preview Screenshot](p2.jpg)  
 
 
 ---
